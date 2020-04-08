@@ -2,6 +2,10 @@
 This project that i created for implement learning node js, webpack, EcmaScript6, Loader, and localstorage website
 
 ![ScreenShot](/screen/screen-first.png)
+![ScreenShot](/screen/screen-category.png)
+![ScreenShot](/screen/screen-search.png)
+![ScreenShot](/screen/screen-addfav.JPG)
+![ScreenShot](/screen/screen-detail.JPG)
 
 ### Built With
 * [Bootstrap](https://getbootstrap.com)

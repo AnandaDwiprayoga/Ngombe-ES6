@@ -1,8 +1,7 @@
 # Ngombe-ES6  
 This project that i created for implement learning node js, webpack, EcmaScript6, Loader, and localstorage website
 
-<img src="https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-first.png" style="width:300px" />
-<img src="https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-category.png" style="width:300px" />
+![ScreenShot](/screen/screen-first.png)
 
 ### Built With
 * [Bootstrap](https://getbootstrap.com)

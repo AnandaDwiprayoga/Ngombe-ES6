@@ -2,15 +2,15 @@
 This project that i created for implement learning node js, webpack, EcmaScript6, Loader, and localstorage website
 
 #### This is when screenshot when website loaded
-[![Product Name Screen Shot][product-screenshot]](https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-first.png)
+![Product Name Screen Shot](https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-first.png)
 #### This is when screenshot when you click category 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-category.png)
+![Product Name Screen Shot](https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-category.png)
 #### This is when screenshot when you search 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-search.png)
+![Product Name Screen Shot](https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-search.png)
 #### This is when screenshot when you click detail drink 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-detail.JPG)
+![Product Name Screen Shot](https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-detail.JPG)
 #### This is when screenshot when you click add to favorite
-[![Product Name Screen Shot][product-screenshot]](https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-addfav.JPG)
+![Product Name Screen Shot](https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-addfav.JPG)
 
 ### Built With
 * [Bootstrap](https://getbootstrap.com)

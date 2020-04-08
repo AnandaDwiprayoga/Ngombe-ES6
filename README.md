@@ -2,11 +2,12 @@
 This project that i created for implement learning node js, webpack, EcmaScript6, Loader, and localstorage website
 
 #### This is when screenshot when website loaded
+
 <img src="https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-first.png" style="width:300px" />
 <img src="https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-category.png" style="width:300px" />
 <img src="https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-search.png" style="width:300px" />
-<img src="https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-detail.png" style="width:300px" />
-<img src="https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-addfav.png" style="width:300px" />
+<img src="https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-detail.JPG" style="width:300px" />
+<img src="https://github.com/AnandaDwiprayoga/Ngombe-ES6/tree/master/screen/screen-addfav.JPG" style="width:300px" />
 
 ### Built With
 * [Bootstrap](https://getbootstrap.com)
